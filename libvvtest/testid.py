@@ -10,7 +10,7 @@ from os.path import join as pjoin
 
 import hashlib
 
-DEFAULT_MAX_NAME_LENGTH = 100
+DEFAULT_MAX_NAME_LENGTH = 200
 
 
 class TestID:
